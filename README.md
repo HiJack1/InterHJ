@@ -6,4 +6,4 @@ The program is written in java with competing methods and parallel. In the file 
 Img folder in the main path you can get the pictures of pulsasnti at the top of the app. the names to be used respectively for the functions play, pause and stop (either enabled or not) are respectively: play_gray.png, play.png, pause_gray.png, pause.png, stop_gray.png and stop.png (link below). 
 
 
-*link for dependencies: https://drive.google.com/file/d/0B_LZuxtC3HifOVg4YmlmeEZHSmc/view?usp=sharing
+* link for dependencies: https://drive.google.com/file/d/0B_LZuxtC3HifOVg4YmlmeEZHSmc/view?usp=sharing
