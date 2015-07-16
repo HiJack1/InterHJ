@@ -1,4 +1,4 @@
 # InterHJ
 With this application it is possible to convert files from Word version 95 onwards in .pdf and .png. The program is written in java with competing methods and parallel. In the file ".classpath" are all the repository and used to be included in classPath. To import all libraries useful to the program (downloadable from the link below) you have to put them in the folder dependencies. The programm strat with the MainWindow in src / InterHJ.com.InterHJ.HJ.GUI. The app is compatible with Java 1.6 or higher.
 
-Img folder in the main path you can get the pictures of pulsasnti at the top of the app. the names to be used respectively for the functions play, pause and stop (either enabled or not) are respectively: play_gray.png, play.png, pause_gray.png, pause.png, stop_gray.png and stop.png.
+Img folder in the main path you can get the pictures of pulsasnti at the top of the app. the names to be used respectively for the functions play, pause and stop (either enabled or not) are respectively: play_gray.png, play.png, pause_gray.png, pause.png, stop_gray.png and stop.png (link below).
