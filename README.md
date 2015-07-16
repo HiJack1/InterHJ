@@ -7,4 +7,4 @@ Img folder in the main path you can get the pictures of pulsasnti at the top of 
 
 
 * **[link for dependencies.] (https://drive.google.com/file/d/0B_LZuxtC3HifOVg4YmlmeEZHSmc/view?usp=sharing)**
-* **link for com.InterHj.HJ.img: https://drive.google.com/file/d/0B_LZuxtC3HifU0pWREFIaFBwdkk/view?usp=sharing**
+* **[link for com.InterHj.HJ.img.] (https://drive.google.com/file/d/0B_LZuxtC3HifU0pWREFIaFBwdkk/view?usp=sharing)**
